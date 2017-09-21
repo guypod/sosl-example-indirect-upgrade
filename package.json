@@ -1,0 +1,8 @@
+{
+  "name": "example-indirect-upgrade-vulnerable",
+  "description": "An example of a direct vs indirect upgrade",
+  "dependencies": {
+    "ejs": "1.0.0",
+    "ejs-locals": "1.0.2"
+  }
+}
