@@ -2,7 +2,7 @@
   "name": "example-indirect-upgrade-vulnerable",
   "description": "An example of a direct vs indirect upgrade",
   "dependencies": {
-    "ejs": "1.0.0",
+    "ejs": "3.1.7",
     "ejs-locals": "1.0.2"
   }
 }
